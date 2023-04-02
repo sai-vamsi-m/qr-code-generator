@@ -1,7 +1,7 @@
 
 # QR code Generator
 
-This is a web application that works by taking user input, generating a QR code using a QR generator API, and displaying the QR code on the webpage using HTML, CSS, and JavaScript.
+This is a web application that works by taking user input, generating a QR code using a `QR generator API`, and displaying the QR code on the webpage using HTML, CSS, and JavaScript.
 ## 🛠 Tools Used
 - HTML
 - CSS
@@ -15,9 +15,9 @@ This is a web application that works by taking user input, generating a QR code 
 To run the project, please follow the below steps:
 
 - Clone the project repository to your local machine.
-- Open the project folder and locate the index.html file.
-- Open the index.html file in your preferred web browser. You should see a webpage with a "Generate" button along with an input text field.
-- Enter the desired input text into the input field and click on the "Generate" button.
+- Open the project folder and locate the `index.html` file.
+- Open the `index.html` file in your preferred web browser. You should see a webpage with a `Generate` button along with an input text field.
+- Enter the desired input text into the input field and click on the `Generate` button.
 - The QR code for the input text will be generated and displayed on the webpage.
 
 That's it! You can now easily generate QR codes using this web application.
@@ -26,9 +26,9 @@ That's it! You can now easily generate QR codes using this web application.
 
 Here's how the project works:
 
-- The user opens the web application in their web browser by accessing the index.html file.
-- The web application displays a simple user interface with an input field to enter the desired text and a "Generate" button.
-- The user enters the desired text in the input field and clicks on the "Generate" button.
+- The user opens the web application in their web browser by accessing the `index.html` file.
+- The web application displays a simple user interface with an input field to enter the desired text and a `Generate` button.
+- The user enters the desired text in the input field and clicks on the `Generate` button.
 - The web application retrieves the input text using JavaScript and sends an API request to the QR code generator API.
 - The QR code generator API receives the input text and generates a QR code image.
 - The API sends the QR code image back to the web application as a response to the API request.
